@@ -1,1 +1,1 @@
-# SpDNN_Challenge2020-
+# SpDNN_Challenge2020
